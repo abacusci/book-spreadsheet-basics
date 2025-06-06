@@ -1,110 +1,81 @@
-# Spreadsheet Basics
+# AbacusCI Book - Spreadsheet Basics
 
-Welcome to **Spreadsheet Basics**, a foundational module designed to introduce students to the core principles of spreadsheets. Whether you're using Microsoft Excel, Google Sheets, or LibreOffice Calc, this module focuses on universal concepts and practical skills you can apply with any spreadsheet tool.
+Welcome to the **Spreadsheet Basics** book of Abacus Computing Institute.
 
----
-
-## 🎯 Learning Objectives
-
-By the end of this module, students will be able to:
-
-- Understand the purpose and structure of spreadsheets
-- Navigate the spreadsheet interface
-- Enter and format data in cells
-- Use basic formulas and functions (SUM, AVERAGE, MIN, MAX)
-- Create simple charts and graphs
-- Organize and sort data effectively
-- Apply spreadsheet skills in a real-world mini project
+> 📖 The full content is available in the [Wiki of this repository](../../wiki). This README provides a general overview.
 
 ---
 
-## 🧠 Theoretical Concepts
+## 📘 What This Book Covers
 
-1. **What is a Spreadsheet?**
-   - Rows, columns, cells
-   - Worksheets and workbooks
+This book introduces the core principles of spreadsheet software using a platform-independent approach. Whether you use **Excel**, **Google Sheets**, or **LibreOffice Calc**, you’ll learn the skills needed to work with data confidently and clearly.
 
-2. **Types of Data**
-   - Text, numbers, dates
+### 🧠 Key Topics
 
-3. **Basic Cell Operations**
-   - Selecting, copying, pasting
-   - Autofill and series
-
-4. **Formatting**
-   - Cell styles, number formats, colors, borders
-
-5. **Formulas and Functions**
-   - Introduction to formulas: `=A1+B1`
-   - Functions: `SUM()`, `AVERAGE()`, `MIN()`, `MAX()`
-   - Understanding cell references (relative vs absolute)
-
-6. **Data Handling**
-   - Sorting and filtering
-   - Basic data validation
-
-7. **Visualization**
-   - Creating simple bar and pie charts
+- What is a spreadsheet?
+- Structure: cells, rows, columns, sheets
+- Entering and formatting data
+- Basic formulas and functions
+- Sorting and filtering data
+- Creating simple charts
+- Applying your skills in practical tasks
 
 ---
 
-## 🛠 Tools You Can Use
+## 🎯 Who Is This For?
 
-You can complete this module using any of the following free tools:
+This book is ideal for:
+
+- Beginners starting with spreadsheet tools
+- Students taking their first AbacusCI Office Productivity module
+- Anyone looking to organize data and perform simple calculations
+
+---
+
+## 🧪 How to Use This Book
+
+Use this book to:
+
+- Follow in-class activities
+- Practice at home or in self-paced sessions
+- Prepare for more advanced spreadsheet levels
+- Complete the final mini-project and present your results
+
+All exercises are explained in the Wiki and can be practiced using any of the following tools:
 
 - [Google Sheets](https://sheets.google.com)
 - [LibreOffice Calc](https://www.libreoffice.org/)
-- [Microsoft Excel Online](https://office.live.com/start/Excel.aspx) *(free with Microsoft account)*
-
----
-
-## 🧪 Activities & Practice Exercises
-
-Each topic includes exercises that build on previous knowledge:
-
-- **Input and format sample data**
-- **Calculate a shopping list total**
-- **Track weekly temperatures and find average/min/max**
-- **Create a budget table with color-coded categories**
-- **Generate a pie chart of monthly expenses**
-
-Students will document their progress and reflections in the group repository's Wiki.
+- [Microsoft Excel Online](https://office.live.com/start/Excel.aspx)
 
 ---
 
 ## 🚀 Final Project
 
-**"Personal Budget Tracker"**
+**Personal Budget Tracker**  
+Create a spreadsheet that tracks a monthly budget, including:
 
-Students will design a functional and visually clear spreadsheet that tracks a personal budget for one month. It must include:
+- Categories (food, transport, etc.)
+- Total and average formulas
+- Conditional formatting for over-budget items
+- One visual chart (bar or pie)
 
-- At least 15 entries with categories (food, transport, savings, etc.)
-- Formulas for total, average, and remaining balance
-- Conditional formatting (e.g. highlight over-budget items)
-- One chart (bar or pie)
-
-### 🎤 Presentation
-Each student will present their spreadsheet to the group, explaining:
-- The structure of their file
-- How they used formulas and charts
-- What they learned or found challenging
+You will present your work, explain the structure, and reflect on what you learned.
 
 ---
 
 ## 📚 Resources
+
 - [Google Sheets Training](https://support.google.com/a/users/answer/9282959?hl=en)
 - [LibreOffice Calc Guide](https://wiki.documentfoundation.org/Documentation/Publications)
 - [Excel Functions Overview](https://support.microsoft.com/en-us/excel)
 
 ---
 
-> _"Learning to use spreadsheets isn't just about numbers — it's about organizing information, solving problems, and telling stories with data."_
-
-Let's get started!
+> "Learning to use spreadsheets isn't just about numbers — it's about organizing information, solving problems, and telling stories with data."
 
 ---
 
 ## 📄 License
 
-This module is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+This book is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to use, adapt, and share this material with proper attribution.
