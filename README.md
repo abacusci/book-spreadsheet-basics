@@ -1,6 +1,6 @@
-# AbacusCI Book - Spreadsheet Basics
+# Divengine Book Spreadsheet Basics
 
-Welcome to the **Spreadsheet Basics** book of Abacus Computing Institute.
+Welcome to the **Spreadsheet Basics** book 
 
 > 📖 The full content is available in the [Wiki of this repository](../../wiki). This README provides a general overview.
 
@@ -27,7 +27,7 @@ This book introduces the core principles of spreadsheet software using a platfor
 This book is ideal for:
 
 - Beginners starting with spreadsheet tools
-- Students taking their first AbacusCI Office Productivity module
+- Students taking their first Office Productivity module
 - Anyone looking to organize data and perform simple calculations
 
 ---
